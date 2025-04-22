@@ -1,0 +1,21 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/about/page": "app/about/page.js",
+  "/category/page": "app/category/page.js",
+  "/blog/resources/page": "app/blog/resources/page.js",
+  "/category/school/page": "app/category/school/page.js",
+  "/commercial/page": "app/commercial/page.js",
+  "/construction/page": "app/construction/page.js",
+  "/contact/page": "app/contact/page.js",
+  "/house/page": "app/house/page.js",
+  "/joint-venture/page": "app/joint-venture/page.js",
+  "/interior/page": "app/interior/page.js",
+  "/industries/page": "app/industries/page.js",
+  "/know-more/page": "app/know-more/page.js",
+  "/loan/page": "app/loan/page.js",
+  "/market-trends/page": "app/market-trends/page.js",
+  "/page": "app/page.js",
+  "/residential/page": "app/residential/page.js",
+  "/self-sustainable-home/page": "app/self-sustainable-home/page.js"
+}
